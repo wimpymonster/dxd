@@ -1,0 +1,41 @@
+{
+  "title": "DxD",
+  "description": "Eyecatch",
+  "artist": "TNK Studios",
+  "author": "none",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx11617-nmxMU9Zh3H5R.jpg",
+  "chapters": {
+    "1": {
+      "title": "S1",
+      "volume": "1",
+      "groups": {
+        "root": "/proxy/api/imgur/chapter/1EBOP4A/"
+      },
+      "last_updated": "1653974989"
+    },
+    "2": {
+      "title": "S2",
+      "volume": "1",
+      "groups": {
+        "root": "/proxy/api/imgur/chapter/j7SgReo/"
+      },
+      "last_updated": "1653974989"
+    },
+    "3": {
+      "title": "S3",
+      "volume": "1",
+      "groups": {
+        "root": "/proxy/api/imgur/chapter/DKha4qp/"
+      },
+      "last_updated": "1653974989"
+    },
+    "4": {
+      "title": "S4",
+      "volume": "1",
+      "groups": {
+        "root": "/proxy/api/imgur/chapter/lH5Qd6F/"
+      },
+      "last_updated": "1653974989"
+    }
+  }
+}
